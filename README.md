@@ -1,2 +1,2 @@
 # qr-code-reader
-scan qr code with javascript
+Scan Qr Code Javascript
